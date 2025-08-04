@@ -1,0 +1,8 @@
+data_bin
+data
+reports
+New folder
+credentials.env
+*.log
+*.bat
+*.pdf
